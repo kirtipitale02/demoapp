@@ -1,5 +1,5 @@
 {
-  "name": "demo-app",
+  "name": "nimap-demo-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build --output-path demo-app --aot --prod"
+    "postinstall": "ng build --output-path nimap-demo-app --aot --prod"
   },
   "private": true,
   "dependencies": {
